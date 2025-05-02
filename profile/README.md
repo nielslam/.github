@@ -9,7 +9,7 @@
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://youtube.com/@wearefranknl" target="_blank">📺 WeAreFrank! TV</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://blog.wearefrank.nl/en" target="_blank">📰 Blog</a>
+  <a href="https://wearefrank.nl/en/insights?utm_source=github&utm_medium=referral" target="_blank">📰 Blog</a>
   <hr />
 </div>
 
